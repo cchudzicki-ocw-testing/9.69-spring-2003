@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains example exam questions. Students are expected to
+  write 2- to 3-page answers to each question.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

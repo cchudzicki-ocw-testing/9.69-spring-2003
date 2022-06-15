@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on an on-line discussion forum used
+  to discuss recitation topics.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
